@@ -6,12 +6,12 @@
 /*   By: dcaetano <dcaetano@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/06 16:35:12 by dcaetano          #+#    #+#             */
-/*   Updated: 2024/09/12 21:03:07 by dcaetano         ###   ########.fr       */
+/*   Updated: 2025/02/16 11:08:49 by dcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 int	ft_atoi(const char *str)
 {

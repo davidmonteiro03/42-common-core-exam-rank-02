@@ -6,12 +6,12 @@
 /*   By: dcaetano <dcaetano@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/06 13:08:50 by dcaetano          #+#    #+#             */
-/*   Updated: 2024/04/06 13:14:17 by dcaetano         ###   ########.fr       */
+/*   Updated: 2025/02/16 10:55:49 by dcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 void	search_and_replace(char *str, char old, char new)
 {
